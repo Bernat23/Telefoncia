@@ -1,0 +1,23 @@
+aplicacio per valorar empresa de trucades
+
+criteris:				
+informació claredat respecte ...
+
+
+valoracions(per cada criteri): les valoracions s'entren a mà
+si les valoracions no tenen el mateix número no poden anar a la mateixa columna
+
+
+informacio necessaria  informacio irrellevant ...
+
+
+al final:
+nota final és la mitjana
+
+
+criteris valoracions i rubrica serien com 3 opcions diferents 
+la rubrica mostra i pots votar i criteris valoracions són formularis a part
+
+si un ja està 
+
+s'ha de guardar al localstorage json parse stringify
